@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Skills Nexus</string>
+    <string name="sign_in">Don\'t have an account?<font color='#1791BA'> Sign Up.</font></string>
+    <string name="sign_up">Already have an account?<font color='#1791BA'> Sign In.</font></string>
+</resources>

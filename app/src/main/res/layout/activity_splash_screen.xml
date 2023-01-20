@@ -33,7 +33,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="something something"
+            android:text="Endless Possibilities With Skill"
             android:textColor="@color/white"
             android:textSize="15sp" />
 
